@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Saha
+  given-names: Dhruba
+orcid: https://orcid.org/0009-0009-8594-2331
+title:dhrubasaha08/TFminiS: TFminiS Sensor Library v0.0.1 for Arduino Pre-Release
+version: v0.0.1
+date-released: 2024-04-07
