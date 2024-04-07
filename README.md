@@ -2,8 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Author-Dhruba%20Saha-red?link=https%3A%2F%2Fgithub.com%2Fdhrubasaha08)
 ![Static Badge](https://img.shields.io/badge/Version-0.0.1-yellow?link=https%3A%2F%2Fgithub.com%2Fdhrubasaha08)
-![GitHub Release](https://img.shields.io/github/v/release/dhrubasaha08/TFminiS)
-[![GitHub](https://img.shields.io/github/license/dhrubasaha08/TFminiS)](LICENSE) 
+[![GitHub](https://img.shields.io/github/license/dhrubasaha08/TFminiS)](LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10939022.svg)](https://doi.org/10.5281/zenodo.10939022)
 
 An Arduino library for interfacing with the Benewake TFmini-S LiDAR sensor, focusing on hardware UART capabilities for ESP32 and Arduino Mega.
